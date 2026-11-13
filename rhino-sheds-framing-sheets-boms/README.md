@@ -245,6 +245,24 @@ The final file holds runs 6 to 13 and read back with 7,391 objects; the save rep
 | I | 11, 12 | 4 | Stalls 1.12 x 1.50 m in a row, 1.70 m deck | 10% single slope, metal | Piers (9) | 2 ramps (run 11), 1 ramp (run 12) | No, elsewhere on site |
 | J | 13 | 4 | As I | As I | Slab on grade | 1:12 apron slope, no ramp | No, elsewhere on site |
 
+Options E to H as Claude captured them from the viewport while building (shaded mode, 900 px wide; the septic pit, its vent and the water main are visible). Options I and J are in [section 10](#10-images-in-this-folder).
+
+**Option E (run 7), four identical units around a 4.80 m court, a ramp at each corner.**
+
+![Option E](images/optionE-4-unit-symmetric-perspective.png)
+
+**Option F (run 8), layout D without the fifth unit, two ramps and two steps.**
+
+![Option F](images/optionF-4-unit-pinwheel-perspective.png)
+
+**Option G (run 9), F with a 10% single-slope metal roof.**
+
+![Option G](images/optionG-single-slope-perspective.png)
+
+**Option H (run 10), compact 2 + 2 on a 1.70 m hall, one ramp.** The hall is open to the sky; the basin counter is at the far end.
+
+![Option H](images/optionH-compact-perspective.png)
+
 ---
 
 ## 6. Metrics
@@ -323,7 +341,7 @@ Like for like: H's total includes about USD 400 of sinks, faucets and counter th
 
 | Path | What it is |
 |---|---|
-| `images/` | Five sheets and eight views; see [section 10](#10-images-in-this-folder) |
+| `images/` | Five sheets, eight views and four option captures (E to H); see sections [5](#5-options-a-to-j) and [10](#10-images-in-this-folder) |
 | [`data/bom-row6-layout-A.csv`](data/bom-row6-layout-A.csv) | The row 6, layout A BOM behind A-101's BOM table (121 lines) |
 | [`data/bom-run13-option-J-slab-on-grade.csv`](data/bom-run13-option-J-slab-on-grade.csv) | The option J BOM (103 lines) |
 | [`scripts/toilet_building_gen_r13.py`](scripts/toilet_building_gen_r13.py) | The run 13 generator: row 6 layouts A to D, options F, G, H and J |
@@ -503,7 +521,7 @@ The five sheets are exported from the session's PDFs. On every sheet the first t
 
 ![Run 13 plan](images/run13-option-J-slab-on-grade-plan-dimensioned.png)
 
-No images of options E to H are published: the session's only views of them were in-chat viewport captures that were not saved as files.
+Options E to H are shown in [section 5](#5-options-a-to-j). Those four images are the session's in-chat viewport captures, recovered from the session record, cropped only to remove an edge of a neighbouring option; they are lower resolution than the exports above.
 
 ---
 
