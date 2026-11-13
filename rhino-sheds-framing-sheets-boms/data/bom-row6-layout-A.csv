@@ -1,0 +1,122 @@
+﻿Category,Item,Size,Qty,Unit,Cut length (m),Total,Total unit,Source
+2x lumber,Step stringer 2x12 PT,2x12 PT (38x286),8,pcs,1.119,8.95,m,Measured from model
+2x lumber,Thatch batten 38x50,2x2 (38x50),70,pcs,3.568,249.76,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),5,pcs,0.251,1.25,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),5,pcs,1.551,7.75,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),10,pcs,2.424,24.24,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),5,pcs,2.704,13.52,m,Measured from model
+2x lumber,Corner blocking,2x6 (38x140),60,pcs,0.064,3.84,m,Measured from model
+2x lumber,Corner stud,2x6 (38x140),20,pcs,2.286,45.72,m,Measured from model
+2x lumber,Cripple stud,2x6 (38x140),10,pcs,0.1,1.0,m,Measured from model
+2x lumber,Double top plate lapped at corner,2x6 (38x140),10,pcs,2.424,24.24,m,Measured from model
+2x lumber,Double top plate lapped at corner,2x6 (38x140),10,pcs,2.704,27.04,m,Measured from model
+2x lumber,Gable stud 2x6,2x6 (38x140),20,pcs,0.436,8.72,m,Measured from model
+2x lumber,Gable stud 2x6,2x6 (38x140),20,pcs,0.999,19.98,m,Measured from model
+2x lumber,Gable stud 2x6,2x6 (38x140),20,pcs,1.188,23.76,m,Measured from model
+2x lumber,Grab bar backing,2x6 (38x140),1,pcs,0.098,0.1,m,Measured from model
+2x lumber,Grab bar backing,2x6 (38x140),2,pcs,0.181,0.36,m,Measured from model
+2x lumber,Grab bar backing,2x6 (38x140),1,pcs,0.2,0.2,m,Measured from model
+2x lumber,Grab bar backing,2x6 (38x140),5,pcs,0.368,1.84,m,Measured from model
+2x lumber,Jack stud,2x6 (38x140),10,pcs,2.002,20.02,m,Measured from model
+2x lumber,King stud,2x6 (38x140),10,pcs,2.286,22.86,m,Measured from model
+2x lumber,Stud,2x6 (38x140),130,pcs,2.286,297.18,m,Measured from model
+2x lumber,Top plate,2x6 (38x140),10,pcs,2.424,24.24,m,Measured from model
+2x lumber,Top plate,2x6 (38x140),10,pcs,2.704,27.04,m,Measured from model
+2x lumber,Vent cripple stud,2x6 (38x140),5,pcs,1.756,8.78,m,Measured from model
+2x lumber,Vent king stud,2x6 (38x140),10,pcs,2.286,22.86,m,Measured from model
+2x lumber,Vent sill,2x6 (38x140),5,pcs,0.4,2.0,m,Measured from model
+2x lumber,Door header 2x8,2x8 (38x184),10,pcs,0.978,9.78,m,Measured from model
+2x lumber,Vent header 2x8,2x8 (38x184),10,pcs,0.4,4.0,m,Measured from model
+2x lumber,Deck joist 2x8 PT,2x8 PT (38x184),16,pcs,0.68,10.88,m,Measured from model
+2x lumber,Deck joist 2x8 PT,2x8 PT (38x184),53,pcs,2.248,119.14,m,Measured from model
+2x lumber,Floor joist 2x8 PT,2x8 PT (38x184),80,pcs,1.238,99.04,m,Measured from model
+2x lumber,Ramp joist 2x8 PT,2x8 PT (38x184),16,pcs,2.094,33.5,m,Measured from model
+2x lumber,Solid blocking 2x8 PT,2x8 PT (38x184),10,pcs,0.19,1.9,m,Measured from model
+2x lumber,Solid blocking 2x8 PT,2x8 PT (38x184),10,pcs,0.348,3.48,m,Measured from model
+2x lumber,Solid blocking 2x8 PT,2x8 PT (38x184),40,pcs,0.368,14.72,m,Measured from model
+2x lumber,Solid blocking 2x8 PT,2x8 PT (38x184),5,pcs,0.388,1.94,m,Measured from model
+2x lumber,Deck girder ply 2x8 PT,2x8 PT girder (38x184),16,pcs,1.3,20.8,m,Measured from model
+2x lumber,Deck girder ply 2x8 PT,2x8 PT girder (38x184),4,pcs,2.496,9.98,m,Measured from model
+2x lumber,Deck girder ply 2x8 PT,2x8 PT girder (38x184),12,pcs,4.593,55.12,m,Measured from model
+2x lumber,Deck girder ply 2x8 PT,2x8 PT girder (38x184),4,pcs,4.793,19.17,m,Measured from model
+2x lumber,Girder ply 2x8 PT,2x8 PT girder (38x184),30,pcs,2.704,81.12,m,Measured from model
+2x lumber,Ramp girder ply 2x8 PT,2x8 PT girder (38x184),4,pcs,1.2,4.8,m,Measured from model
+
+2x lumber TOTAL,2x12 PT (38x286),,8,cut pieces,,8.95,m,Measured from model
+2x lumber PURCHASE,2x12 PT (38x286),3.60 m stock,3,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+2x lumber TOTAL,2x2 (38x50),,70,cut pieces,,249.76,m,Measured from model
+2x lumber PURCHASE,2x2 (38x50),3.60 m stock,70,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+2x lumber TOTAL,2x6 (38x140),,394,cut pieces,,628.55,m,Measured from model
+2x lumber PURCHASE,2x6 (38x140),3.60 m stock,238,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+2x lumber TOTAL,2x8 (38x184),,20,cut pieces,,13.78,m,Measured from model
+2x lumber PURCHASE,2x8 (38x184),3.60 m stock,5,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+2x lumber TOTAL,2x8 PT (38x184),,230,cut pieces,,284.61,m,Measured from model
+2x lumber PURCHASE,2x8 PT (38x184),3.60 m stock,82,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+2x lumber TOTAL,2x8 PT girder (38x184),,70,cut pieces,,190.99,m,Measured from model
+2x lumber PURCHASE,2x8 PT girder (38x184),4.88 m stock,50,stock lengths,,,,"Calculated, cuts nested, no piece over stock length; stock lengths are assumptions (girders 16 ft so joints stay over piers)"
+
+Plywood,Subfloor,25 mm,14,sheets 1.22x2.44,,36.56,m2,Area measured from model; sheets include 10% waste
+Plywood,Wall and gable sheathing,12 mm,59,sheets 1.22x2.44,,157.39,m2,Area measured from model; sheets include 10% waste; thickness is a working value
+Plywood,Interior wall lining,12 mm,39,sheets 1.22x2.44,,105.01,m2,"NOT MODELED: 12 mm allowance in the wall build-up, assumed plywood; net of door and vent; sheets include 10% waste"
+Tyvek,Weather barrier on walls and gables,,182.0,m2 incl 15% laps,,158.25,m2,Area measured from model
+Pine cladding,"Vertical boards, walls",19 mm,143.0,m2 incl 10% waste,,129.99,m2,"Measured from model, net of door and vent openings"
+Pine cladding,"Vertical boards, gables",19 mm,31.6,m2 incl 10% waste,,28.71,m2,Measured from model
+
+"Framing, other",Header spacer,"64x184 mm, material to confirm",10,pcs,,6.89,m,Measured from model
+"Framing, other",Sill plate PT,300x300x38 mm,81,pcs,,81.0,pcs,Measured from model
+Framing connectors,Anchor bolt 12 mm,"12 mm dia, 311 mm long as modeled",81,pcs,,81.0,pcs,Measured from model; hardware grade and embedment to be engineered
+Framing connectors,Joist hanger,for 2x8,298,pcs,,298.0,pcs,Measured from model; product to be engineered; nails not counted
+Framing connectors,Rib uplift tie,for 90 and 140 mm GLT ribs,70.0,pcs,,70.0,pcs,"Measured from model, 2 modeled legs per tie; product to be engineered"
+Decking,Deck surface (boards not drawn),32 mm,60.38,m2 incl 10% waste,,54.89,m2,Modeled as a solid; no internal framing or reinforcement modeled
+Decking,Ramp deck (boards not drawn),32 mm,11.26,m2 incl 10% waste,,10.233,m2,Modeled as a solid; no internal framing or reinforcement modeled
+Guards and railings,Guard post 80x80,80x80,32,pcs,,28.8,m,Measured from model
+Guards and railings,Mid rail 50x50,50x50,6,pcs,,27.976,m,Measured from model
+Guards and railings,Ramp handrail 50x50,50x50,4,pcs,,34.109,m,Measured from model
+Guards and railings,Ramp post 80x80,80x80,24,pcs,,21.6,m,Measured from model
+Guards and railings,Top rail 50x50,50x50,6,pcs,,27.976,m,Measured from model
+Ramps and steps,Step tread,"32 mm, 300 mm deep",6,pcs,,2.16,m2,Measured from model
+Concrete,Concrete pier 300x300,300x300,81,pcs,,6.414,m3,Measured from model; no footing or reinforcement modeled
+Concrete,Entry ramp slab,1.20 m wide,1,pcs,,1.035,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Concrete,Entry ramp stem,1.20 m wide,1,pcs,,0.136,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Concrete,Exit ramp slab,1.20 m wide,1,pcs,,1.035,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Concrete,Exit ramp stem,1.20 m wide,1,pcs,,0.136,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Concrete,Ramp support post 150x150 (material assumed concrete),150x150,4,pcs,,0.066,m3,Measured from model
+Concrete,Step footing pad,100 mm thick,2,pcs,,0.12,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Roof structure,Curved GLT rib 90x140,90x140,25,pcs,,100.688,m,Measured from model; arc length
+Roof structure,End rib GLT 140x140,140x140,10,pcs,,40.275,m,Measured from model; arc length
+Roof covering,Thatch vault,250 mm thick,5,pcs,,84.91,m2,"Measured from model; mean surface area, thickness is a working value"
+Doors and vents,Door head flashing,2 mm x 30 mm projection as modeled,5,pcs,,4.7,m,Measured from model; material to confirm
+Doors and vents,Door leaf,900x1995x45,5,pcs,,5.0,pcs,Measured from model; hardware not modeled
+Doors and vents,Door threshold,25 x 32 mm,5,pcs,,4.51,m,Measured from model
+Doors and vents,Grill vent frame member,400x300 grill,20,pcs,,20.0,pcs,Measured from model; 4 per grill
+Doors and vents,Grill vent louver,400x300 grill,20,pcs,,20.0,pcs,Measured from model; 4 per grill
+Doors and vents,Vent head flashing,2 mm x 30 mm projection as modeled,5,pcs,,2.0,m,Measured from model; material to confirm
+Fixtures,Basin,400x340,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Basin counter top,"0.83 x 0.60 m, 40 mm",4,pcs,,1.997,m2,Measured from model
+Fixtures,Counter leg,,8,pcs,,8.0,pcs,Measured from model
+Fixtures,Faucet,,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Grab bar mount,,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Rear grab bar,38 mm dia,1,pcs,,0.95,m,Measured from model
+Fixtures,Side grab bar,38 mm dia,1,pcs,,1.07,m,Measured from model
+Fixtures,Toilet bowl (accessible),,1,pcs,,1.0,pcs,Measured from model
+Fixtures,Toilet bowl (standard),,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Toilet seat (accessible),,1,pcs,,1.0,pcs,Measured from model
+Fixtures,Toilet seat (standard),,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Toilet tank (accessible),,1,pcs,,1.0,pcs,Measured from model
+Fixtures,Toilet tank (standard),,4,pcs,,4.0,pcs,Measured from model
+"Plumbing pipe, Cold water",Cold water branch,"20 mm Pipe, material to confirm",9,pcs,,35.96,m,Measured from model
+"Plumbing pipe, Cold water",Cold water main,"25 mm Pipe, material to confirm",1,pcs,,14.874,m,Measured from model
+"Plumbing pipe, Cold water",Cold water riser,"20 mm Pipe, material to confirm",9,pcs,,16.64,m,Measured from model
+"Plumbing pipe, Drains",Basin drain branch,50 mm PVC drain (material assumed),4,pcs,,14.403,m,Measured from model
+"Plumbing pipe, Drains",Basin drain riser,50 mm PVC drain (material assumed),4,pcs,,8.044,m,Measured from model
+"Plumbing pipe, Drains",Collector,110 mm PVC drain (material assumed),1,pcs,,3.069,m,Measured from model
+"Plumbing pipe, Drains",Main drain to septic pit,110 mm PVC drain (material assumed),1,pcs,,8.603,m,Measured from model
+"Plumbing pipe, Drains",Toilet drain branch,110 mm PVC drain (material assumed),5,pcs,,22.054,m,Measured from model
+"Plumbing pipe, Drains",Toilet drain riser,110 mm PVC drain (material assumed),5,pcs,,6.489,m,Measured from model
+"Plumbing pipe, Vents",Building vent stack,63 mm PVC vent (material assumed),1,pcs,,6.154,m,Measured from model
+"Plumbing pipe, Vents",Septic pit vent,63 mm PVC vent (material assumed),1,pcs,,2.7,m,Measured from model
+Site and drainage,Inspection chamber,800x800,1,pcs,,0.668,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Site and drainage,Water meter box,,1,pcs,,1.0,pcs,Measured from model
+Site and drainage,Septic pit cover slab,2.80 m dia,1,pcs,,1.232,m3,"Measured from model; concrete volume, material assumed"
+Site and drainage,Septic pit shell,"2.80 m outside, 2.50 m inside dia",1,pcs,,4.84,m3,"Measured from model; concrete volume, material assumed"
+Site and drainage,Truck access strip,3.00 m wide gravel,18.0,m2,,18.0,m2,Measured from model

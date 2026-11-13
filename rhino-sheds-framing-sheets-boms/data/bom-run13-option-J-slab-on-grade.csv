@@ -1,0 +1,104 @@
+﻿Category,Item,Size,Qty,Unit,Cut length (m),Total,Total unit,Source
+2x lumber,Bottom plate,2x4 (38x89),3,pcs,1.524,4.57,m,Measured from model
+2x lumber,Double top plate,2x4 (38x89),3,pcs,1.532,4.6,m,Measured from model
+2x lumber,Stud,2x4 (38x89),3,pcs,2.113,6.34,m,Measured from model
+2x lumber,Stud,2x4 (38x89),3,pcs,2.14,6.42,m,Measured from model
+2x lumber,Stud,2x4 (38x89),3,pcs,2.18,6.54,m,Measured from model
+2x lumber,Stud,2x4 (38x89),3,pcs,2.221,6.66,m,Measured from model
+2x lumber,Stud,2x4 (38x89),2,pcs,2.261,4.52,m,Measured from model
+2x lumber,Stud,2x4 (38x89),1,pcs,2.262,2.26,m,Measured from model
+2x lumber,Top plate,2x4 (38x89),3,pcs,1.532,4.6,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),2,pcs,0.342,0.68,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),3,pcs,0.493,1.48,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),2,pcs,1.524,3.05,m,Measured from model
+2x lumber,Bottom plate,2x6 (38x140),1,pcs,5.123,5.12,m,Measured from model
+2x lumber,Corner stud,2x6 (38x140),8,pcs,2.106,16.85,m,Measured from model
+2x lumber,Corner stud,2x6 (38x140),8,pcs,2.272,18.18,m,Measured from model
+2x lumber,Cripple stud,2x6 (38x140),6,pcs,0.086,0.52,m,Measured from model
+2x lumber,Double top plate,2x6 (38x140),2,pcs,1.532,3.06,m,Measured from model
+2x lumber,Double top plate,2x6 (38x140),2,pcs,5.123,10.25,m,Measured from model
+2x lumber,Jack stud,2x6 (38x140),8,pcs,2.002,16.02,m,Measured from model
+2x lumber,King stud,2x6 (38x140),8,pcs,2.272,18.18,m,Measured from model
+2x lumber,Purlin 2x6,2x6 (38x140),3,pcs,5.487,16.46,m,Measured from model
+2x lumber,Stud,2x6 (38x140),8,pcs,2.106,16.85,m,Measured from model
+2x lumber,Stud,2x6 (38x140),2,pcs,2.113,4.23,m,Measured from model
+2x lumber,Stud,2x6 (38x140),2,pcs,2.14,4.28,m,Measured from model
+2x lumber,Stud,2x6 (38x140),2,pcs,2.18,4.36,m,Measured from model
+2x lumber,Stud,2x6 (38x140),2,pcs,2.221,4.44,m,Measured from model
+2x lumber,Stud,2x6 (38x140),2,pcs,2.261,4.52,m,Measured from model
+2x lumber,Stud,2x6 (38x140),4,pcs,2.272,9.09,m,Measured from model
+2x lumber,Top plate,2x6 (38x140),2,pcs,1.532,3.06,m,Measured from model
+2x lumber,Top plate,2x6 (38x140),2,pcs,5.123,10.25,m,Measured from model
+2x lumber,Vent cripple stud,2x6 (38x140),4,pcs,1.576,6.3,m,Measured from model
+2x lumber,Vent king stud,2x6 (38x140),8,pcs,2.106,16.85,m,Measured from model
+2x lumber,Vent sill,2x6 (38x140),4,pcs,0.4,1.6,m,Measured from model
+2x lumber,Door header 2x8,2x8 (38x184),8,pcs,0.816,6.53,m,Measured from model
+2x lumber,Vent header 2x8,2x8 (38x184),8,pcs,0.4,3.2,m,Measured from model
+
+2x lumber TOTAL,2x4 (38x89),,24,cut pieces,,46.51,m,Measured from model
+2x lumber PURCHASE,2x4 (38x89),3.60 m stock,20,stock lengths,,,,"Calculated, cuts nested, assumed stock length and 3 mm kerf"
+2x lumber TOTAL,2x6 (38x140),,95,cut pieces,,195.66,m,Measured from model
+2x lumber PURCHASE,2x6 (38x140),3.60 m stock,75,stock lengths,,,,"Calculated, cuts nested, assumed stock length and 3 mm kerf"
+2x lumber TOTAL,2x8 (38x184),,16,cut pieces,,9.73,m,Measured from model
+2x lumber PURCHASE,2x8 (38x184),3.60 m stock,3,stock lengths,,,,"Calculated, cuts nested, assumed stock length and 3 mm kerf"
+
+Plywood,Subfloor,25 mm,0,sheets 1.22x2.44,,0.0,m2,Area measured from model; sheets include 10% waste
+Plywood,Wall sheathing,12 mm,10,sheets 1.22x2.44,,25.72,m2,Area measured from model; sheets include 10% waste; thickness is a working value
+Plywood,Interior wall lining,12 mm,16,sheets 1.22x2.44,,41.69,m2,"ASSUMED, NOT MODELED: 4 stalls x 5.24 m perimeter x 2.30 m mean height, less door and vent; assumed plywood"
+Weather barrier,Weather barrier on walls,,29.8,m2 incl 15% laps,,25.89,m2,Area measured from model
+Pine cladding,"Vertical boards, walls",19 mm,28.6,m2 incl 10% waste,,26.03,m2,"Measured from model, net of door and vent openings"
+Roof covering,Metal roof sheet,"6 mm envelope, product not chosen",13.1,m2 incl 10% laps,,11.9,m2,Sloped area measured from model; 10% laps is assumed
+
+Earthworks,Apron excavation,,2,pcs,,1.183,m3,"Measured from model; labour or machine, not material"
+Earthworks,Apron gravel sub-base,compacted gravel,2,pcs,,1.176,m3,Measured from model
+Earthworks,Drain trench,,10,pcs,,3.71,m3,"Measured from model; labour or machine, not material"
+Earthworks,Inspection chamber excavation,,1,pcs,,1.064,m3,"Measured from model; labour or machine, not material"
+Earthworks,Septic pit excavation,,1,pcs,,29.329,m3,"Measured from model; labour or machine, not material"
+Earthworks,Slab gravel sub-base,compacted gravel,1,pcs,,0.817,m3,Measured from model
+Earthworks,Slab sub-base excavation,,1,pcs,,0.545,m3,"Measured from model; labour or machine, not material"
+Earthworks,Thickened edge excavation,,4,pcs,,0.949,m3,"Measured from model; labour or machine, not material"
+"Framing, other",Header spacer,"64x184 mm, material to confirm",8,pcs,,4.864,m,Measured from model
+Framing connectors,Anchor bolt 12 mm,"12 mm dia, 311 mm long as modeled",17,pcs,,17.0,pcs,Measured from model; to_engineer
+Framing connectors,Purlin uplift tie,strap at purlin,15,pcs,,15.0,pcs,Measured from model; product to_engineer
+Concrete,Apron transition 1:12,100 mm,1,pcs,,0.277,m3,"Measured from model; no reinforcement, mesh or vapour barrier modeled"
+Concrete,Concrete apron 100 mm,100 mm,1,pcs,,0.898,m3,"Measured from model; no reinforcement, mesh or vapour barrier modeled"
+Concrete,Slab on grade 100 mm,100 mm,1,pcs,,0.924,m3,"Measured from model; no reinforcement, mesh or vapour barrier modeled"
+Concrete,Slab thickened edge (below slab),"300 wide, 400 deep from slab top",4,pcs,,1.139,m3,"Measured from model; no reinforcement, mesh or vapour barrier modeled"
+Doors and vents,Door head flashing,30 mm projection as modeled,4,pcs,,2.96,m,Measured from model; material to confirm
+Doors and vents,Door leaf,700x1995x45,4,pcs,,4.0,pcs,Measured from model; hardware not modeled
+Doors and vents,Door threshold,25 x 32 mm,4,pcs,,2.96,m,Measured from model
+Doors and vents,Grill vent frame member,400x300 grill,16,pcs,,16.0,pcs,Measured from model; 4 per grill
+Doors and vents,Grill vent louver,400x300 grill,16,pcs,,16.0,pcs,Measured from model; 4 per grill
+Doors and vents,Vent head flashing,30 mm projection as modeled,4,pcs,,1.6,m,Measured from model; material to confirm
+Fixtures,Floor drain grate,120 mm dia,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Toilet bowl (standard),,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Toilet seat (standard),,4,pcs,,4.0,pcs,Measured from model
+Fixtures,Toilet tank (standard),,4,pcs,,4.0,pcs,Measured from model
+"Plumbing pipe, Drains",Collector,110 mm,3,pcs,,5.624,m,Measured from model; material assumed
+"Plumbing pipe, Drains",Floor drain branch,50 mm,4,pcs,,2.761,m,Measured from model; material assumed
+"Plumbing pipe, Drains",Floor drain riser,50 mm,4,pcs,,2.195,m,Measured from model; material assumed
+"Plumbing pipe, Drains",Main drain to septic pit,110 mm,1,pcs,,8.603,m,Measured from model; material assumed
+"Plumbing pipe, Drains",Toilet drain riser,110 mm,4,pcs,,2.266,m,Measured from model; material assumed
+"Plumbing pipe, Vents",Building vent stack,63 mm,1,pcs,,3.878,m,Measured from model; material assumed
+"Plumbing pipe, Vents",Septic pit vent,63 mm,1,pcs,,2.7,m,Measured from model; material assumed
+"Plumbing pipe, Cold water",Cold water branch,20 mm,2,pcs,,3.699,m,Measured from model; material assumed
+"Plumbing pipe, Cold water",Cold water main,25 mm,1,pcs,,13.324,m,Measured from model; material assumed
+"Plumbing pipe, Cold water",Cold water meter riser,25 mm,1,pcs,,0.07,m,Measured from model; material assumed
+"Plumbing pipe, Cold water",Cold water riser,20 mm,4,pcs,,4.28,m,Measured from model; material assumed
+Site and drainage,Inspection chamber,800x800,1,pcs,,0.499,m3,Modeled as a solid; no internal framing or reinforcement modeled
+Site and drainage,Water meter box,,1,pcs,,1.0,pcs,Measured from model
+Site and drainage,Septic pit cover slab,2.80 m dia,1,pcs,,1.232,m3,"Measured from model; concrete volume, material assumed"
+Site and drainage,Septic pit shell,"2.80 m outside, 2.50 m inside dia",1,pcs,,4.641,m3,"Measured from model; concrete volume, material assumed"
+Site and drainage,Truck access strip,3.00 m wide gravel,18.0,m2,,18.0,m2,Measured from model
+
+NOT COUNTED,"Nails, screws, structural screws and adhesive",,,,,,,Not in the model
+NOT COUNTED,"Pipe fittings, traps, flush valves, stop valves, solvent cement",,,,,,,Not in the model
+NOT COUNTED,"Reinforcement or mesh, vapour barrier under the slab, formwork",,,,,,,Not in the model
+NOT COUNTED,"Door frames, hinges, latches and locks",,,,,,,Not in the model
+NOT COUNTED,"Gutters, roof fixings, ridge and edge flashings",,,,,,,Not in the model
+NOT COUNTED,"Paint, stain and sealers",,,,,,,Not in the model
+NOT COUNTED,Floor finish (20 mm allowance only),,,,,,,Not in the model
+NOT COUNTED,"Labour, transport, equipment, permits, fees and VAT treatment",,,,,,,Not in the model
+NOT COUNTED,The accessible toilet provided elsewhere on the site,,,,,,,Not in the model
+NOT COUNTED,"Basins, faucets and counter (sinks to be added later)",,,,,,,Not in the model
+EXCLUDED,"Door swing arc: drawn annotation, not a material",,4,objects,,,,Not a material
