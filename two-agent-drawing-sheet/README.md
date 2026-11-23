@@ -248,7 +248,7 @@ Sonnet and Opus together missed one check in three runs. Haiku with the skill av
 
 - **Without the skill the agents had to write hidden-line projection themselves.** In `hk-noskill-notes-1` the rail agent's linework landed in the wrong place in all three views (one view about 4 m off the sheet), the section lost most of the stair, and neither agent kept cut pieces.
 - **The second no-skill run was better (22 of 26)** but still had no section cut and took twice the calls.
-- **So the skill roughly halved cost, time, calls and errors, and removed the linework failures.** Two no-skill runs are too few to put a number on the difference in checks.
+- **So with the skill, agent time and script calls roughly halved, cost fell by about 40%, errored calls fell by about 60%, and the linework failures went away.** Two no-skill runs are too few to put a number on the difference in checks.
 - **The skill did not help with dimensions** (it has no dimension function) **or with the callout negotiation.**
 
 ### 8.5 Models
